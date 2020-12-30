@@ -5897,7 +5897,7 @@
 {"word":"stepchild", "wordnet_senseno": "stepchild.n.01", "gender": "n"},
 {"word":"stepdaughter", "wordnet_senseno": "stepdaughter.n.01", "gender": "f"},
 {"word":"stepfather", "wordnet_senseno": "stepfather.n.01", "gender": "m", "gender_map": {"f": [{"parts_of_speech": "*", "word": "stepmother"}]}},
-{"word":"stepmother", "wordnet_senseno": "stepmother.n.01", "gender": "m", "gender_map": {"f": [{"parts_of_speech": "*", "word": "stepfather"}]}},
+{"word":"stepmother", "wordnet_senseno": "stepmother.n.01", "gender": "f", "gender_map": {"m": [{"parts_of_speech": "*", "word": "stepfather"}]}},
 {"word":"stepparent", "wordnet_senseno": "stepparent.n.01", "gender": "n"},
 {"word":"stepson", "wordnet_senseno": "stepson.n.01", "gender": "m"},
 {"word":"stevedore", "wordnet_senseno": "stevedore.n.01", "gender": "n"},
