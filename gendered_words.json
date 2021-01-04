@@ -2223,7 +2223,7 @@
 {"word":"fire_watcher", "wordnet_senseno": "fire_watcher.n.01", "gender": "n"},
 {"word":"fire-eater", "wordnet_senseno": "fire-eater.n.02", "gender": "n"},
 {"word":"fire-eater", "wordnet_senseno": "fire-eater.n.03", "gender": "n"},
-{"word":"fireman", "wordnet_senseno": "fireman.n.04", "gender": "m", "gender_map": {"f": [{"parts_of_speech": "*", "word": "firewoman"}]}},
+{"word":"fireman", "wordnet_senseno": "fireman.n.04", "gender": "m", "gender_map": {"f": [{"parts_of_speech": "*", "word": "firewoman"}], "n": [{"parts_of_speech": "*", "word": "firefighter"}]}},
 {"word":"first_baseman", "wordnet_senseno": "first_baseman.n.01", "gender": "m", "gender_map": {"f": [{"parts_of_speech": "*", "word": "first_basewoman"}]}},
 {"word":"first_lady", "wordnet_senseno": "first_lady.n.01", "gender": "f"},
 {"word":"first_lady", "wordnet_senseno": "first_lady.n.02", "gender": "f"},
