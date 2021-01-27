@@ -3823,7 +3823,7 @@
 {"word":"misleader", "wordnet_senseno": "misleader.n.01", "gender": "n"},
 {"word":"misogamist", "wordnet_senseno": "misogamist.n.01", "gender": "n"},
 {"word":"misogynist", "wordnet_senseno": "misogynist.n.01", "gender": "m"},
-{"word":"miss", "gender": "f", "gender_map": {"m": [{"parts_of_speech": "NNP,NN", "word": "x"}]}},
+{"word":"miss", "gender": "f", "gender_map": {"m": [{"parts_of_speech": "NNP,NN", "word": "mr."}]}},
 {"word":"missing_link", "wordnet_senseno": "missing_link.n.01", "gender": "n"},
 {"word":"missionary", "wordnet_senseno": "missionary.n.02", "gender": "n"},
 {"word":"missionary", "wordnet_senseno": "missionary.n.01", "gender": "n"},
