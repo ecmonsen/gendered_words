@@ -35,6 +35,15 @@ The dataset is a JSON file, containing a single list of JSON objects, one per wo
 ]
 ```
 
+# Contributing
+
+1. [Fork](https://guides.github.com/activities/forking/) the [master repo](https://github.com/ecmonsen/gendered_words) and clone your fork.
+1. Using your favorite editor or IDE, make your changes.
+  1. Do not reformat the JSON. Preserve the format of one word per line. 
+  1. Add new words at the **end** of the file. 
+1. Commit and push changes to your fork.
+1. Create a [pull request](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/about-pull-requests).
+1. Maintainers of the master repo will review the pull request and accept or request changes.
 
 # How the dataset was created
 
@@ -44,7 +53,7 @@ A few additional words that are not WordNet hyponyms of "person" were manually a
 
 The dataset will be occasionally updated, and pull requests are welcome.
 
-#Natural Gender Definition
+# Natural Gender Definition
 
 According to [Wikipedia](https://en.wikipedia.org/wiki/Grammatical_gender#Grammatical_vs._natural_gender) (as of 2019-10-31), "The natural gender of a noun, pronoun or noun phrase is a gender to which it would be expected to belong based on relevant attributes of its referent. This usually means masculine or feminine, depending on the referent's sex (or gender in the sociological sense)." 
 
