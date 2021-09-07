@@ -3,7 +3,7 @@
 {"word":"abandoned_person", "wordnet_senseno": "abandoned_person.n.01", "gender": "n"},
 {"word":"abator", "wordnet_senseno": "abator.n.01", "gender": "n"},
 {"word":"abbe", "wordnet_senseno": "abbe.n.01", "gender": "n"},
-{"word":"abbess", "wordnet_senseno": "abbess.n.01", "gender": "f", "gender_map": {"m": [{"parts_of_speech": "*", "word": "abbott"}]}},
+{"word":"abbess", "wordnet_senseno": "abbess.n.01", "gender": "f", "gender_map": {"m": [{"parts_of_speech": "*", "word": "abbot"}]}},
 {"word":"abbot", "wordnet_senseno": "abbot.n.01", "gender": "m"},
 {"word":"abdicator", "wordnet_senseno": "abdicator.n.01", "gender": "n"},
 {"word":"abecedarian", "wordnet_senseno": "abecedarian.n.01", "gender": "n"},
